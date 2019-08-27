@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/browserify/browserify.git"
+    "url": "http://github.com/bitcoin-com/browserify.git"
   },
   "engines": {
     "node": ">= 0.8"
@@ -28,7 +28,7 @@
     "browser-pack": "^6.0.1",
     "browser-resolve": "^1.11.0",
     "browserify-zlib": "~0.2.0",
-    "buffer": "^5.0.2",
+    "buffer": "5.2.1",
     "cached-path-relative": "^1.0.0",
     "concat-stream": "^1.6.0",
     "console-browserify": "^1.1.0",
